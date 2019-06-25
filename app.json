@@ -1,0 +1,21 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "heroku/ruby"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "rails_training",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
